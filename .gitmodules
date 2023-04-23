@@ -1,3 +1,3 @@
-[submodule "GenT-HTML"]
-	path = GenT-HTML
-	url = https://github.com/facuzelante/GenT-HTML
+[submodule "clases_html"]
+	path = clases_html
+	url = https://github.com/facuzelante/clases_html
