@@ -1,0 +1,3 @@
+[submodule "GenT-HTML"]
+	path = GenT-HTML
+	url = https://github.com/facuzelante/GenT-HTML
