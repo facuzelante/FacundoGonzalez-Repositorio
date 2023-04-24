@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+li {
+    width: 300px;
+}
+ul.losmalosmalos li {
+    background-color: rgb(197, 10, 10);
+}
+ul.rebeldes li {
+    background-color: blue;
+}
+#darthforever {
+    font-size: 200%;
+}
+#lukeforever {
+    font-size: 200%;
+    font-family: italic;
+}
+.soldados {
+    border: 15px ridge;
+    border-color: #d3301a;
+    letter-spacing: 10px;
+}
+.apoyo {
+    text-align: center;
+}
+.nave {
+    text-transform: uppercase;
+}
+.droides {
+    text-align: center;
+}
